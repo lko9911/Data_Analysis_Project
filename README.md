@@ -1,7 +1,7 @@
 # 🥇 데이터분석프로래밍 중간 & 기말 프로젝트
 ---
-프로젝트 기간: 2024년 9월 ~ 2024년 11월 <br><br>
-강원대학교 메카트로닉스 & 데이터사이언스학과 이규원 <br><br>
+- 프로젝트 기간: 2024년 9월 ~ 2024년 11월 <br><br>
+- 강원대학교 메카트로닉스 & 데이터사이언스학과 이규원 <br><br>
 
 # 🥈 데이터분석프로래밍 중간 & 기말 프로젝트
 ---
@@ -18,4 +18,5 @@
 ![슬라이드10](https://github.com/user-attachments/assets/bc8e9794-8464-4515-a92d-56039fa80f77)
 ![슬라이드11](https://github.com/user-attachments/assets/7aaa0c14-a88d-4082-8c73-e3241a924359)
 ![슬라이드12](https://github.com/user-attachments/assets/8a6dfd5b-8d81-4ef3-a213-1d42901bb2d5)
+
 
